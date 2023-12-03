@@ -1,0 +1,13 @@
+[Unit]
+Description=gunicorn daemon
+Requires=gunicorn.socket
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/var/www/api/backend #путь до каталога с файлом manage.py
+ExecStart=/var/www/api/venv/bin/gunicorn --workers 5 --bind unix:/run/gunicorn.sock mysite.wsgi:application
+#путь до файла gunicorn в виртуальном окружении
+
+[Install]
+WantedBy=multi-user.target

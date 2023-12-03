@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45fe1675-af18-4779-9af8-e80306a9f370" name="Changes" comment="Добавлен поиск товаров">
+      <change afterPath="$PROJECT_DIR$/frontend/services/OrderServices.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/services/SettingsServices.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/services/conf.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/orders/OrdersTr.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/products/AddProductModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/products/ProductTr.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/settings/SettingsForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/ProductsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/services/ProductServices.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/services/ProductServices.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/services/UserServices.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/services/UserServices.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/OrdersSelect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/orders/OrdersSelect.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layouts/SideBarProfile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layouts/SideBarProfile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/layouts/SidebarRoutes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/layouts/SidebarRoutes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/settings/Diagram.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/settings/Diagram.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/settings/UserTr.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/settings/UserTr.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/settings/UsersTable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/settings/UsersTable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/shop/ProductCardComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/shop/ProductCardComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/LoginPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/LoginPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/MyHistoryPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/MyHistoryPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/OrdersPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/OrdersPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/SettingsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/SettingsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/ShopPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/ShopPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/routes/routes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/routes/routes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/Modal.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Freeze Requirements File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XVTxP63HvqDEScadNhfPFON3Qi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gabit/PycharmProjects/pythonProject1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PyCharm 2022.1.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\frontend\src\styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\test-okta\src\components" />
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\frontend\src\components\orders" />
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\frontend\src\components" />
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\frontend\src\components\shop" />
+      <recent name="C:\Users\gabit\PycharmProjects\ecomerce-shop\frontend\src\assets\products" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ecomerce-shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45fe1675-af18-4779-9af8-e80306a9f370" name="Changes" comment="" />
+      <created>1698713493112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698713493112</updated>
+      <workItem from="1698713498415" duration="48000" />
+      <workItem from="1698713953412" duration="51000" />
+      <workItem from="1698720230156" duration="25428000" />
+      <workItem from="1698764853413" duration="1141000" />
+      <workItem from="1698847420636" duration="217000" />
+      <workItem from="1698847917008" duration="4804000" />
+      <workItem from="1698934418286" duration="667000" />
+      <workItem from="1698935350045" duration="7168000" />
+      <workItem from="1698974705348" duration="106000" />
+      <workItem from="1699015965262" duration="11061000" />
+      <workItem from="1699100378267" duration="1890000" />
+      <workItem from="1699238139684" duration="10697000" />
+      <workItem from="1699273613246" duration="106000" />
+      <workItem from="1699276905459" duration="257000" />
+      <workItem from="1699277827619" duration="973000" />
+      <workItem from="1699621453906" duration="56000" />
+      <workItem from="1699670356801" duration="180000" />
+      <workItem from="1699670600437" duration="1125000" />
+      <workItem from="1699772832609" duration="8253000" />
+      <workItem from="1700180809129" duration="3917000" />
+      <workItem from="1700227968927" duration="5801000" />
+      <workItem from="1700284572110" duration="9406000" />
+      <workItem from="1700310158145" duration="11000" />
+      <workItem from="1700332712237" duration="610000" />
+      <workItem from="1700398096406" duration="24000" />
+      <workItem from="1700405095986" duration="30000" />
+      <workItem from="1700405142911" duration="805000" />
+      <workItem from="1700473414505" duration="1605000" />
+      <workItem from="1700897399255" duration="12871000" />
+      <workItem from="1701068874222" duration="1562000" />
+      <workItem from="1701273342816" duration="2323000" />
+      <workItem from="1701341968026" duration="511000" />
+      <workItem from="1701358475927" duration="34000" />
+      <workItem from="1701432810346" duration="399000" />
+      <workItem from="1701586310241" duration="273000" />
+      <workItem from="1701586598279" duration="1847000" />
+    </task>
+    <task id="LOCAL-00001" summary="Добавлена авторизация">
+      <created>1698852594014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698852594014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frontend1" />
+    </ignored-roots>
+    <MESSAGE value="Добавлена авторизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена авторизация" />
+  </component>
+</project>
